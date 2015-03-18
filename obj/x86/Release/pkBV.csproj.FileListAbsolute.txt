@@ -1,0 +1,8 @@
+C:\Users\Kurt\Documents\Visual Studio 2010\Projects\pkBV\pkBV\bin\Release\pkBV.exe
+C:\Users\Kurt\Documents\Visual Studio 2010\Projects\pkBV\pkBV\bin\Release\pkBV.pdb
+C:\Users\Kurt\Documents\Visual Studio 2010\Projects\pkBV\pkBV\obj\x86\Release\pkBV.Form1.resources
+C:\Users\Kurt\Documents\Visual Studio 2010\Projects\pkBV\pkBV\obj\x86\Release\pkBV.Properties.Resources.resources
+C:\Users\Kurt\Documents\Visual Studio 2010\Projects\pkBV\pkBV\obj\x86\Release\pkBV.csproj.GenerateResource.Cache
+C:\Users\Kurt\Documents\Visual Studio 2010\Projects\pkBV\pkBV\obj\x86\Release\pkBV.exe
+C:\Users\Kurt\Documents\Visual Studio 2010\Projects\pkBV\pkBV\obj\x86\Release\pkBV.pdb
+C:\Users\Kurt\Documents\Visual Studio 2010\Projects\pkBV\pkBV\obj\x86\Release\pkBV.Request.resources
