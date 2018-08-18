@@ -1,9 +1,0 @@
-C:\Users\Kurt\documents\visual studio 2010\Projects\pkBV\pkBV\bin\Debug\pkBV.exe
-C:\Users\Kurt\documents\visual studio 2010\Projects\pkBV\pkBV\bin\Debug\pkBV.pdb
-C:\Users\Kurt\documents\visual studio 2010\Projects\pkBV\pkBV\obj\x86\Debug\pkBV.Form1.resources
-C:\Users\Kurt\documents\visual studio 2010\Projects\pkBV\pkBV\obj\x86\Debug\pkBV.Properties.Resources.resources
-C:\Users\Kurt\documents\visual studio 2010\Projects\pkBV\pkBV\obj\x86\Debug\pkBV.csproj.GenerateResource.Cache
-C:\Users\Kurt\documents\visual studio 2010\Projects\pkBV\pkBV\obj\x86\Debug\pkBV.exe
-C:\Users\Kurt\documents\visual studio 2010\Projects\pkBV\pkBV\obj\x86\Debug\pkBV.pdb
-C:\Users\Kurt\Documents\Visual Studio 2010\Projects\pkBV\pkBV\obj\x86\Debug\pkBV.csprojResolveAssemblyReference.cache
-C:\Users\Kurt\Documents\Visual Studio 2010\Projects\pkBV\pkBV\obj\x86\Debug\pkBV.Request.resources
